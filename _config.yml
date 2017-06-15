@@ -1,7 +1,7 @@
 # Site
 title:              Sea hedgehog
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Master student in E-Services, University Lille 1'
+description:        "Web-Developer"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo_2.png'
@@ -13,7 +13,7 @@ url:                http://127.0.0.1:4000  #https://taylantatli.github.io/Moon
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        rouge
+highlighter:
 kramdown:
   auto_ids:         true
   footnote_nr:      1
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+# disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -39,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 email:              vasilina.frolkova@gmail.com
 #twitter:           username
-facebook:           username
+#facebook:           username
 github-url:         LinaEfer
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           vasilina-frolkova-63433b131
 #xing:              username
-instagram:          username
+#instagram:         username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
