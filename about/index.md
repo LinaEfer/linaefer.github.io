@@ -1,37 +1,91 @@
 ---
 layout: page
 title: About me
-tags: [about, Jekyll, theme, moon]
+tags: [about]
 date: 2016-03-21
 comments: false
 ---
 
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+# SKILLS
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+| Front-End                          | Back-End           |   DBMS    | Graphic design    | Tools   |
+|:---------------------------------- |:------------------:|:---------:|:-----------------:|--------:|
+| JavaScript                         | PHP (Symfony)      | Firebase  | Adobe Illustrator | Docker  |
+|(ReactJS + Redux, AngularJS, Ionic) |
+| SASS                               | NodeJS             | SQL       | Adobe Photoshop   | Eslinе  |
+| Bootstrap                          | .NET (ASP.NET MVC) | MySQL     | Adobe PremierPro  | Postman |
+| JQuery                             |                    | MS Access | CorelDraw         |
+| Ajax                              
+|------------
+{: rules="groups"}
 
-## Preview
+* * *
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+# EXPERIENCE
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+### Internship
+“Les-Tilleuls.coop”  
+since March 2017  
+Lille, France
 
-## Getting Started
+Development and maintenance of Web applications: Symfony, API Platform, AngularJS and ReactJS.
+{: style="text-align:justify;" :}
+Web-Development -  Autonomy - Analytical mind
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+* * *
 
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+### Technical Support Engineer
+Argos-Uchet  
+October 2015 – August 2016  
+Saint Petersburg, Russia
+
+Technical and methodological customer support.  
+Project management and integration.  
+Application development and testing.  
+Client relationships.
+
+Proficiency to ERP-system - Teamworking - Communication skills
+
+
+* * *
+
+### Database Manager
+State University of Aerospace Instrumentation  
+October 2012 – December 2013  
+Saint Petersburg, Russia
+
+Managing and modifying on MS Access DB 2007, the Standards Database (ISO 9001, ISO 9000, ISO 14000, ...) .
+{: style="text-align:justify;" :}
+Proficiency to MS Access - Autonomy - Analytical mind
+
+* * *
+
+# EDUCATION
+
+### University Lille 1 Sciences et Technologies
+IT Master degree, E-Services  
+since September 2016  
+Lille, France
+
+Web application development, mobile application development, project management, collaborative development, automated and manual testing.
+{: style="text-align:justify;" :}
+
+* * *
+
+### SUAI, State University of Aerospace Instrumentation
+Gratuated as IT engineer in media industry  
+Setpember 2010 – July 2015  
+Saint-Peterburg, Russia
+
+Principal areas of research: Data Analysis, System Analysis, Project Management, Architecture Modeling, Statistics, Visual design, Audio and video data processing.
+{: style="text-align:justify;" :}
+
+* * *
+
+### Graduate School of Engineering ESIGELEC
+The discovery program  
+March 2014  
+Rouen, France
+
+Exchange program in the context of partnership between ESIGELEC (Rouen, France) and State University of Aerospace Instrumentation (St. Petersburg, Russia). Participation in the conference on Aerospace.
+{: style="text-align:justify;" :}
