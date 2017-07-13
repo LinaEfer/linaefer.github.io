@@ -33,6 +33,7 @@ sass:
 google:
   #plus:            #username
   analytics:        UA-102207876-1
+  tagmanager:       GTM-PWJJJZF
   #verify:
   #ad-client:
   #ad-slot:
